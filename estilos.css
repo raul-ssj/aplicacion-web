@@ -1,4 +1,8 @@
 p, h1 {
   text-align: center;
-  color: blue;
+  color: red;
+}
+p {
+  text-align: center;
+  color: green;
 }
